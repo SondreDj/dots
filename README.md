@@ -17,7 +17,10 @@ pacman -S git
 ```
 pacman -S stow
 ```
-
+## Things configured
+1. neovim
+2. tmux
+3. zsh
 ## Installation
 
 First, check out the dotfiles repo in your $HOME directory using git
