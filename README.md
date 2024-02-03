@@ -21,6 +21,9 @@ pacman -S stow
  - neovim
  - tmux
  - zsh
+ - hyprland
+ - waybar
+ - kitty
 ## Installation
 
 First, check out the dotfiles repo in your $HOME directory using git
