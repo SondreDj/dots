@@ -100,8 +100,8 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-alias v="snap run nvim"
-alias sv="sudo snap run nvim"
+alias v="nvim"
+alias sv="sudo nvim"
 alias c="clear"
 alias x="exit"
 alias lg="lazygit"
